@@ -1,0 +1,53 @@
+LISENSI BAILENV
+Versi 1.0 — Bahasa Indonesia
+
+Hak Cipta (c) 2026 raolenv
+https://github.com/raolenv/baileys
+
+Proyek ini merupakan konversi JavaScript dari WhiskeySockets/Baileys.
+Kode asli tetap menjadi milik para pemiliknya masing-masing.
+Proyek ini tidak berafiliasi, tidak didukung, dan tidak terkait
+dengan WhatsApp Inc. maupun Meta Platforms, Inc.
+
+1. HAK PENGGUNA
+
+   Pemegang lisensi ini berhak, tanpa biaya, untuk:
+   a. menggunakan perangkat lunak ini untuk keperluan pribadi,
+      edukasi, penelitian, maupun komersial internal;
+   b. mempelajari, memodifikasi, dan membuat karya turunan;
+   c. menyalin dan mendistribusikan ulang perangkat lunak ini
+      beserta karya turunannya, selama seluruh ketentuan
+      lisensi ini tetap dipenuhi.
+
+2. LARANGAN
+
+   a. DILARANG memperjualbelikan perangkat lunak ini, baik secara
+      utuh maupun sebagian, dalam bentuk apa pun (kode sumber,
+      paket npm, bundel aplikasi, maupun layanan berbayar yang
+      pada intinya menjual ulang perangkat lunak ini).
+   b. DILARANG menghapus atau mengubah pemberitahuan hak cipta
+      dan atribusi kepada raolenv serta WhiskeySockets/Baileys.
+   c. DILARANG menggunakan perangkat lunak ini untuk spam,
+      penipuan, penyadapan, stalkerware, atau kegiatan lain yang
+      melanggar hukum dan Ketentuan Layanan WhatsApp.
+
+3. KETENTUAN DISTRIBUSI ULANG
+
+   Setiap salinan atau distribusi ulang, dalam bentuk apa pun,
+   WAJIB menyertakan:
+   a. salinan penuh lisensi ini; dan
+   b. pemberitahuan hak cipta di atas.
+
+4. TANPA JAMINAN
+
+   PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA
+   JAMINAN APA PUN, BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK
+   NAMUN TIDAK TERBATAS PADA JAMINAN DAPAT DIPERDAGANGKAN,
+   KESESUAIAN UNTUK TUJUAN TERTENTU, DAN TIDAK ADANYA
+   PELANGGARAN. DALAM KEADAAN APA PUN PEMEGANG HAK CIPTA
+   TIDAK BERTANGGUNG JAWAB ATAS KLAIM, KERUGIAN, ATAU TANGGUNG
+   JAWAB LAINNYA, BAIK DALAM TINDAKAN KONTRAK, KESALAHAN,
+   MAUPUN LAINNYA, YANG TIMBUL DARI ATAU SEHUBUNGAN DENGAN
+   PERANGKAT LUNAK INI ATAU PENGGUNAANNYA.
+
+   Gunakan atas risiko dan tanggung jawab Anda sendiri.

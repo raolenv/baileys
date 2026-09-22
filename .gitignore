@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+yarn.lock
+baileys_auth_info/
+session/
+auth_info*/
+*.log
+wa-logs.txt
+.env
+.DS_Store
